@@ -3,7 +3,7 @@
 Sou estudante do primeiro semestre de Análise e Desenvolvimento de Sistemas na faculdade SENAC, também faço curso técnico em Desenvolvimento de Sistemas e entusiasta de tecnologia, focado em construir soluções lógicas e eficientes estruturadas em boas práticas.
 
 Tecnologias e Ferramentas
-* **Linguagens e Web:** Java, Python, C#, HTML5, CSS3
+* **Linguagens e Web:** Java, Python, HTML5, CSS3
 * **Banco de Dados:** SQL Server
 * **Sistemas Operacionais:** Linux (Debian 12) e Windows
 
