@@ -8,7 +8,7 @@ Tecnologias e Ferramentas
 * **Sistemas Operacionais:** Linux (Debian 12) e Windows
 
 🔭 Projetos em Destaque
-* **Projeto Sanus:** Sistema de gestão para farmácias. Aplicação de conceitos de Programação Orientada a Objetos (POO) em Java e modelagem de banco de dados relacional. E também com aplicações em HTML5, CSS3, JavaScript e Figma.
+* **Projeto Sanus:** Sistema de gestão para farmácias. Aplicação de conceitos de Programação Orientada a Objetos (POO) em Java e modelagem de banco de dados relacional. E também com aplicações em HTML5, CSS3, JavaScript e Figma, e Mobile.
 * **Bot de Ofertas (Telegram):** Engenharia de automação desenvolvida para monitoramento e notificação de produtos de tecnologia.
 * **Portfólio Web:** Desenvolvimento de interfaces responsivas estruturadas puramente com marcação HTML e estilização CSS.
 
