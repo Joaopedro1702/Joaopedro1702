@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou o João! 👋
 
-<!--
-**Joaopedro1702/Joaopedro1702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante do primeiro semestre de Análise e Desenvolvimento de Sistemas na faculdade SENAC, também faço curso técnico em Desenvolvimento de Sistemas e entusiasta de tecnologia, focado em construir soluções lógicas e eficientes estruturadas em boas práticas.
 
-Here are some ideas to get you started:
+Tecnologias e Ferramentas
+* **Linguagens e Web:** Java, Python, C#, HTML5, CSS3
+* **Banco de Dados:** SQL Server
+* **Sistemas Operacionais:** Linux (Debian 12) e Windows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Projetos em Destaque
+* **Projeto Sanus:** Sistema de gestão para farmácias. Aplicação de conceitos de Programação Orientada a Objetos (POO) em Java e modelagem de banco de dados relacional. E também com aplicações em HTML5, CSS3, JavaScript e Figma.
+* **Bot de Ofertas (Telegram):** Engenharia de automação desenvolvida para monitoramento e notificação de produtos de tecnologia.
+* **Portfólio Web:** Desenvolvimento de interfaces responsivas estruturadas puramente com marcação HTML e estilização CSS.
+
+📚 Objetos de Estudo Atuais
+* Programação Orientada a Objetos e estruturas condicionais.
+* Integração de sistemas e diagramação de dados.
+* Teorias Clássicas da Administração aplicadas ao contexto de gestão tecnológica.
